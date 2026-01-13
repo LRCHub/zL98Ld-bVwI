@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "彼方",
+  "base_artist": "Omoinotake",
+  "createdAt": "2026-01-13T12:53:50.865349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彼方",
+      "artist": "haruka nakamura",
+      "has_synced": false,
+      "path": "select/01_彼方_haruka_nakamura.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彼方",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/02_彼方_SHE'S.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彼方",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/03_彼方_ゆず.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彼方",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/04_彼方_Omoinotake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彼方",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/pl_01_彼方_Omoinotake.txt"
+    }
+  ]
+}
